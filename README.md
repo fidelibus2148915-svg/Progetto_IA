@@ -1,4 +1,4 @@
-# Progetto_IA
+# Complications of myocardial infarction 
 ## Descrizione del progetto
 
 Questo progetto ha come obiettivo la predizione della mortalità post-infarto miocardico a partire da dati clinici ospedalieri.  
