@@ -18,6 +18,7 @@ Il flusso di lavoro comprende:
 
 ---
 ## Dataset utilizzato
+https://figshare.le.ac.uk/articles/dataset/Myocardial_infarction_complications_Database/12045261/3
 
 Il dataset utilizzato è il *Myocardial Infarction Complications Database*, composto da: 1700 osservazioni (pazienti) e 124 variabili cliniche.
 
